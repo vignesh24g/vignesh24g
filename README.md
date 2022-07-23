@@ -1,6 +1,5 @@
-### Hi there 👋
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vignesh!]
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=vignesh24g&theme=<THEME_NAME>" />
+[![Header](https://github.com/vignesh24g/vignesh24g/blob/main/profile.jpg "Header")]
 
 
 <!--
