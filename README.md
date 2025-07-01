@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/vignesh24g/vignesh24g/blob/main/Hi.gif" width="29">, I'm [Vicky!] ,Learning Programming to implement projects that are cost efficient solution to real-world problems.
+## Hey <img src="https://github.com/vignesh24g/vignesh24g/blob/main/Hi.gif" width="29">, I'm [Vicky!] ,Experienced Data Engineer skilled in building robust data pipelines, designing scalable architectures, and optimizing ETL processes. Proficient in Python, SQL, and cloud platforms like AWS and GCP. Passionate about transforming raw data into actionable insights and enabling data-driven decision-making. Strong collaborator with experience in cross-functional teams, agile methodologies, and continuous integration/deployment practices. Always eager to learn new technologies and solve challenging data problems.
 [![Header](https://github.com/vignesh24g/vignesh24g/blob/main/gits.png "Header")](https://vignesh24g.github.io/)
 
 
