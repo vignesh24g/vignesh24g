@@ -32,8 +32,7 @@ I love building **secure, scalable systems** and empowering others with **step-b
 🎯 Current focus:  
 - Spark + BigQuery integration  
 - Modular ETL pipeline design  
-- Secure financial data extraction (NSE/BSE, Zerodha, Yahoo Finance)  
-- UI/UX portfolio design  
+- AWS | DATABRICKS
 
 ---
 
@@ -45,35 +44,6 @@ I love building **secure, scalable systems** and empowering others with **step-b
 ![Spark](https://progress-bar.dev/70/?title=Spark%20%2F%20BigData&width=300&color=orange)  
 ![CI/CD](https://progress-bar.dev/60/?title=CI%2FCD&width=300&color=red)  
 
----
-
-## 📈 GitHub Stats & Widgets
-
-| Activity Trends | Productivity (Last 28 days) |
-| ----------- | ----------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" /> |
-
-| Top Languages | Streak Stats |
-| ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh24g&layout=compact&theme=radical" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh24g&theme=radical" /> |
-
----
-
-## 🌟 Featured Projects
-
-- [**Databricks Learning**](https://github.com/vignesh24g/DATABRICKS_LEARNING) → Hands-on notebooks & Spark experiments  
-- **Workflow Automation Templates** → Modular CI/CD setups for scalable pipelines  
-- **Financial Data Extractors** → Scripts for NSE/BSE, Zerodha, Yahoo Finance  
-
----
-
-## 🎯 Fun Facts
-
-- 🏆 Love **structured comparisons** (audio gear, DTH packs, browser reward systems)  
-- 🎬 Cinema buff: exploring **Japanese classics & genre-based watchlists**  
-- 🎮 Gamer: **offline-supported Windows Store RPGs & shooters**  
-
----
 
 ## 📫 Connect With Me
 
@@ -81,7 +51,7 @@ I love building **secure, scalable systems** and empowering others with **step-b
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 
-<a href="mailto:YOUR-EMAIL" target="_blank">
+<a href="mailto:vignesh24.gv@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail />
 </a>
 
