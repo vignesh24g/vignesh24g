@@ -1,4 +1,4 @@
-<h1 align="center">Hey Folks! I'm Vignesh 👨‍💻</h1>
+<h1 align="center">Hey Folks! I'm Vignesh 👨‍💻 Data Engineer</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -29,14 +29,18 @@ I love building **secure, scalable systems** and empowering others with **step-b
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" height=180 />
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vignesh24g&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 </div>
 
-
 ---
+### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vignesh24g&theme=github_dark)
+  
+ </div>
 
+ ---
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -60,14 +64,6 @@ I love building **secure, scalable systems** and empowering others with **step-b
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-- [Databricks Learning](https://github.com/vignesh24g/DATABRICKS_LEARNING) → Spark + Databricks notebooks  
-- [Workflow Automation Templates](https://github.com/vignesh24g) → Modular CI/CD setups  
-- [Financial Data Extractors](https://github.com/vignesh24g) → NSE/BSE, Zerodha, Yahoo Finance scripts  
 
 ---
 
