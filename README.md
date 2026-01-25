@@ -29,16 +29,11 @@ I love building **secure, scalable systems** and empowering others with **step-b
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" height=180 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh24g&theme=radical" height=180 />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vignesh24g&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh24g&theme=onedark&row=1&column=6" />
-</p>
 
 ---
 
@@ -50,11 +45,6 @@ I love building **secure, scalable systems** and empowering others with **step-b
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/vignesh24g/vignesh24g/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## ⚒️ Tools & Technologies
 
