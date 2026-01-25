@@ -1,21 +1,16 @@
 <h1 align="center">Hey Folks! I'm Vignesh 👨‍💻</h1>
 
-<div align="center">
-<a href="https://github.com/vignesh24g">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
-</a>
-</div>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineer+@barclays;Big+Data;Spark+SQL;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineer+@Barclays;Big+Data;Spark+SQL;AWS+%7C+Python+%7C+PySpark;Snowflake+%7C+Databricks+%7C+GitLab;Always+Learning+New+Things">
+  </a>
 </p>
-
-
-<br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=vignesh24g&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+  <img src="https://komarev.com/ghpvc/?username=vignesh24g&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height=25px />
 </p>
+
+---
 
 ## 🚀 Introduction
 
@@ -23,64 +18,99 @@ I'm a **Data Engineer** specializing in **ETL pipelines, Big Data, workflow auto
 I love building **secure, scalable systems** and empowering others with **step-by-step guides**.  
 
 🎯 Current focus:  
-- Spark + BigData integration  
-- Modular ETL pipeline design
-- Data analysis and Pipelines
+- Spark + Big Data integration  
+- Modular ETL pipeline design  
+- Data analysis and pipelines  
 
 ---
-<hr width="36%" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+## 📊 GitHub Stats
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" height=180 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh24g&theme=radical" height=180 />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vignesh24g&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh24g&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/vignesh24g/vignesh24g/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## ⚒️ Tools & Technologies
 
 <p align="center">
-  <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
-  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- PySpark -->
   <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" />
-  
-  <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <!-- Hadoop -->
   <img src="https://img.shields.io/badge/Hadoop-%2300C7B7.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  
-  <!-- DevOps -->
   <img src="https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  
-  <!-- Snowflake -->
   <img src="https://img.shields.io/badge/Snowflake-%2300C1D4.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
-  
-  <!-- Databricks -->
   <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" />
-  
-  <!-- GitLab -->
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+---
+
+## 🌟 Featured Projects
+
+- [Databricks Learning](https://github.com/vignesh24g/DATABRICKS_LEARNING) → Spark + Databricks notebooks  
+- [Workflow Automation Templates](https://github.com/vignesh24g) → Modular CI/CD setups  
+- [Financial Data Extractors](https://github.com/vignesh24g) → NSE/BSE, Zerodha, Yahoo Finance scripts  
+
+---
+
+## ✨ Motto
+
+_"Automating workflows, scaling data, and always learning something new."_  
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-<a href="https://github.com/vignesh24g" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-
-<a href="mailto:vignesh24.gv@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail />
-</a>
-
-<a href="https://www.linkedin.com/in/vignesh-gunasekaran-4a1216194" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
+<p align="center">
+  <a href="https://github.com/vignesh24g" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:vignesh24.gv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
