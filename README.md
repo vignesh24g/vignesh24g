@@ -6,23 +6,16 @@
 </a>
 </div>
 
-<h4 align="center">
-  <b><a href="https://github.com/vignesh24g?tab=repositories">Data Engineering Projects</a></b>
-  •
-  <b><a href="https://github.com/vignesh24g/DATABRICKS_LEARNING">Databricks Learning</a></b>
-  •
-  <a href="https://github.com/vignesh24g">Workflow Automation</a>
-  •
-  <a href="https://github.com/vignesh24g">Financial Data Extractors</a>
-  •
-  <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a>
-  •
-  <a href="mailto:YOUR-EMAIL">Email</a>
-  •
-  <a href="https://twitter.com/YOUR-HANDLE">Twitter</a>
-</h4>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 
----
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
 
 ## 🚀 Introduction
 
@@ -35,14 +28,25 @@ I love building **secure, scalable systems** and empowering others with **step-b
 - AWS | DATABRICKS
 
 ---
+<hr width="36%" >
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 
 ## 📊 Skill Progress
 
-![Python](https://progress-bar.dev/85/?title=Python&width=300&color=blue)  
-![SQL](https://progress-bar.dev/75/?title=SQL&width=300&color=green)  
-![Shell](https://progress-bar.dev/65/?title=Shell%20Scripting&width=300&color=yellow)  
-![Spark](https://progress-bar.dev/70/?title=Spark%20%2F%20BigData&width=300&color=orange)  
-![CI/CD](https://progress-bar.dev/60/?title=CI%2FCD&width=300&color=red)  
 
 
 ## 📫 Connect With Me
