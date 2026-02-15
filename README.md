@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=vignesh24g&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height=25px />
 </p>
 
-[GitHub Stats]
-https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical
 
 ---
 
@@ -33,6 +31,7 @@ I love building **secure, scalable systems** and empowering others with **step-b
   <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" height=180 />
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 ### 💳 Github Profile Summary Card
