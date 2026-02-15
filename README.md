@@ -10,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=vignesh24g&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height=25px />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical)
+[GitHub Stats]
+https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical
 
 ---
 
