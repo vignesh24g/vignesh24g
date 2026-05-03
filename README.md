@@ -25,15 +25,6 @@ I love building **secure, scalable systems** and empowering others with **step-b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical" height=180 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh24g&show_icons=true&theme=dark&locale=en&layout=compact" height=180 />
-</div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh24g&show_icons=true&theme=radical&cache_seconds=1800)
-
----
 ### 💳 Github Profile Summary Card
  
  <div align=center>
