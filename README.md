@@ -83,10 +83,10 @@ _"Automating workflows, scaling data, and always learning something new."_
   <a href="mailto:vignesh24.gv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/vignesh-gunasekaran24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+  <a href="https://x.com/vignesh24g" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
